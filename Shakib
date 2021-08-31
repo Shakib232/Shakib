@@ -1,0 +1,247 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink.png" group-title="BANGLADESH" ,DESH TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink.png" group-title="BANGLADESH" ,ATN BANGLA
+http://103.205.133.21/hls/atnbangla.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="BANGLADESH" ,CHANNEL I
+http://103.205.133.21/hls/ichannel.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="BANGLADESH" ,BOISHAKHI TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="BANGLADESH" ,BANGLA VISION
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="BANGLADESH" ,MY TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="BANGLADESH" ,MOHONA TV
+http://iptvbd.jagobd.com:1931/boishakhi/mohonatv00000223232244556633.stream/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="BANGLADESH" ,MAASRANGA
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="KIDS" ,DISNEY
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="BANGLADESH" ,CHANNEL 9
+http://iptvbd.jagobd.com:1931/boishakhi/channel9hd.stream/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="BANGLADESH" ,G TV
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="BANGLADESH" ,DEEPTO TV
+http://103.205.133.21/hls/deeptotv.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="BANGLADESH" ,NAGORIK TV
+http://103.205.133.21/hls/nagorik.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="BANGLADESH" ,ATN NEWS
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="BANGLADESH" ,INDEPENDENT TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="BANGLADESH" ,SHOMOY TV
+https://rhridoy136.shortcm.li/shomoytv.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="BANGLADESH" ,CHANNEL 24
+http://iptvbd.jagobd.com:1931/boishakhi/channel24-sg-e8e.stream/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="BANGLADESH" ,JAMUNA TV
+http://iptvbd.jagobd.com:1931/boishakhi/jamuna-test-sample-ok.stream/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="BANGLADESH" ,DURONTO TV
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="BANGLADESH" ,BIJOY TV
+http://iptvbd.jagobd.com:1931/boishakhi/bijoy00.stream/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="INDIAN BANGLA" ,STAR JALSHA
+http://163.172.29.246:8081/globalbd/starjalsha/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="INDIAN BANGLA" ,JALSHA MOVIES
+http://otv.ftpbd.net/streams/115/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="INDIAN BANGLA" ,ZEE BANGLA
+http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="INDIAN BANGLA" ,ZEE BANGLA 2
+http://103.205.133.20/hls/zeebangla.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="INDIAN BANGLA" ,ZEE BANGLA CINEMA
+http://cv.khushitv.xyz/channels.php?c=zbanglacnm&e=.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="INDIAN BANGLA" ,SONY AATH
+http://103.205.133.19/hls/sony8.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="INDIAN BANGLA" ,SONY TV
+http://103.205.133.21/hls/chs.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="INFORMATIVE" ,DISCOVERY
+https://itvorigin.multitvsolution.com/idvo/discoveryhindi.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="INDIAN HINDI" ,SONY MAX
+http://45.127.244.7:8080/hls/channel6.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="SPORTS" ,SONY SIX
+http://103.205.133.21/hls/sonysix.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="SPORTS" ,SONY SIX 2
+http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="SPORTS" ,SONY TEN 2
+http://103.205.133.21/hls/ten2.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="SPORTS" ,SONY TEN 1
+http://103.205.133.21/hls/ten1.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="SPORTS" ,SONY TEN 2 2
+http://otv.ftpbd.net/streams/112/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="SPORTS" ,SONY TEN 3
+http://103.205.133.21/hls/ten3.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="SPORTS" ,SONY ESPN
+https://gma2.blab.email/espnu.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="KIDS" ,CN
+http://otv.ftpbd.net/streams/104/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="SPORTS" ,STAR SPORTS 2
+http://103.205.133.21/hls/chss2.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="SPORTS" ,STAR SPORTS SELECT 1
+http://otv.ftpbd.net/streams/113/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="SPORTS" ,STAR SPORTS SELECT 2
+http://otv.ftpbd.net/streams/114/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="SPORTS" ,TITAS SPORTS
+http://103.102.136.106:8080/cmcltv/tsports.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="INFORMATIVE" ,NAT GEO
+http://otv.ftpbd.net/streams/110/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="KIDS" ,CN INDIA
+http://otv.ftpbd.net/streams/123/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="BANGLADESH" ,NTV
+http://103.205.133.21/hls/ntv.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="SPORTS" ,BEIN SPORTS EXTRA
+https://bein-plutolive-vo.akamaized.net/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="INFORMATIVE" ,DISCOVERY BANGLA
+https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="INFORMATIVE" ,DISCOVERY SCIENCE
+https://itvorigin.multitvsolution.com/idvo/discoversciencehindi.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="KIDS" ,HUNGAMA
+https://live.hungama.com/linear/dil-se/playlist_360p/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="SPORTS" ,Bein sports 1
+http://51.15.1.11:25461/MEGATV/MEGATV/1
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="SPORTS" ,BEIN sports 2
+http://51.15.1.11:25461/MEGATV/MEGATV/2
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="SPORTS" ,beiin sports 1 hd
+http://51.15.1.11:25461/MEGATV/MEGATV/4
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="SPORTS" ,bein sports 2 hd
+http://51.15.1.11:25461/MEGATV/MEGATV/5
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="SPORTS" ,Bein sports 3
+http://51.15.1.11:25461/MEGATV/MEGATV/3
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="SPORTS" ,Bein sports 3 hd
+http://51.15.1.11:25461/MEGATV/MEGATV/6
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="SPORTS" ,Bein sports 4
+http://51.15.1.11:25461/MEGATV/MEGATV/7
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="SPORTS" ,Bein sports 5
+http://51.15.1.11:25461/MEGATV/MEGATV/8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="SPORTS" ,sky sports 1
+http://evdibac.com:80/307200116107/307200116107/83172
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="SPORTS" ,sky sports 2
+http://evdibac.com:80/307200116107/307200116107/83170
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="logolink" group-title="INFORMATIVE" ,ANIMAL PLANET
+https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network-Hindi
+http://103.153.39.34:8000/play/a04k/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/0UushKa.png",Sonic 2
+http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/0UushKa.png",Sonic 3
+http://103.153.39.34:8000/play/a04p/index.m3u8
